@@ -1,4 +1,4 @@
-# shopping-list
+# repository for paper books
 
 > A Vue.js project
 
